@@ -1,0 +1,29 @@
+---
+title: testitest
+author: ladida
+date: 01.01.01
+---
+# Introduction
+davor 
+
+```{julia; results="raw"; eval=true}
+println("Hello World.")
+```
+
+```julia
+using Gadfly
+x = linspace(0, 2*pi)
+println(x)
+plot(x = x, y = sin.(x))
+```
+
+
+mittendrin
+
+```julia; term=true
+println("Hello World.")
+a = 1+2
+"hihi"
+```
+
+danach

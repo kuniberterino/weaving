@@ -1,0 +1,5 @@
+[deps]
+Crayons = "a8cc5b0e-0ffa-5ad4-8c14-923d3ee1735f"
+OhMyREPL = "5fb14364-9ced-5910-84b2-373655c76a03"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Weave = "44d3d7a6-8a23-5bf8-98c5-b353f8df5ec9"
